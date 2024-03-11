@@ -34,5 +34,3 @@ src="https://img.shields.io/github/followers/eshun4?logo=github&style=for-the-ba
 <a href="http://www.github.com/eshun4"><img src="https://github-readme-stats.vercel.app/api?username=eshun4&show_icons=true&hide=stars,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="eshun4's GitHub stats" /></a>
 
 <a href="http://www.github.com/eshun4"><img src="https://github-readme-streak-stats.herokuapp.com/?user=eshun4&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/eshun4"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=eshun4&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
