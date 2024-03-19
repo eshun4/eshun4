@@ -10,7 +10,7 @@ Software Engineer
 * 🖥️  See my portfolio at [My Portfolio](http://kofijunioreshun.netlify.app/)
 * ✉️  You can contact me at [kofijunioreshun@outlook.com](mailto:kofijunioreshun@outlook.com)
 * 🧠  I'm learning Erlang and Concurrency OTP.
-* 🤝  I'm open to collaborating on Open Source projects ranging from the Backend to the Frontend and Machine Learning.
+* 🤝  I'm open to collaborating on Open Source projects ranging from the Backend to the Frontend, OpenAI, Artificial Intelligence, NLP and Machine Learning.
 
 <a href="https://www.github.com/eshun4" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/eshun4?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
