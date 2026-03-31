@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =========================================================================================================================================
 
 
-👋 Hi there! I’m a passionate about building things with a knack for machine learning and data analysis. With a diverse tech stack under my belt, I’ve enriched web experiences and led innovative projects. My work has optimized operations, increased revenue, and enhanced learning efficiency. I believe in the power of code to transform and simplify our lives. Let’s connect and code the future together! 🚀
+👋 Hi there! I’m a passionate about building resilient AI and Machine Learning Software. With a diverse tech stack under my belt, I’ve enriched web experiences and led innovative projects. My work has optimized operations, increased revenue, and enhanced learning efficiency. I believe in the power of code to transform and simplify our lives. Let’s connect and code the future together! 🚀
 
 <a href="https://www.github.com/eshun4" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/eshun4?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
