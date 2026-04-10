@@ -20,6 +20,9 @@ I enjoy working at the intersection of <strong>AI, software engineering, and pro
   <a href="https://www.github.com/eshun4" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/github/stars/eshun4?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=0891b2&labelColor=1c1917&logo=github" />
   </a>
+  <a href="https://github.com/pulls?q=is%3Apr+reviewed-by%3Aeshun4" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Code%20Reviews-XX+-for-the-badge?style=for-the-badge&color=0891b2&labelColor=1c1917" />
+  </a>
 </p>
 
 ---
