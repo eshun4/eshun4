@@ -88,12 +88,6 @@ I enjoy working at the intersection of <strong>AI, software engineering, and pro
 </p>
 
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=eshun4&theme=algolia&no-frame=true&no-bg=true&margin-w=8" alt="GitHub Trophies" />
-  </a>
-</p>
-
-<p align="left">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=eshun4&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
   </a>
