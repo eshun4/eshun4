@@ -2,7 +2,7 @@
   Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px" />, I'm Kofi
 </h1>
 
-<h3 align="left">AI & Machine Learning Software Builder</h3>
+<h3 align="left">AI & Machine Learning Software Engineer</h3>
 
 <p align="left">
 I’m passionate about building resilient, scalable AI and machine learning systems that solve real-world problems.  
