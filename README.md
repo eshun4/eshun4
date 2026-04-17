@@ -1,5 +1,5 @@
 <h1 align="left">
-  Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px" />, I'm Kofi
+  Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px" alt="waving hand" />, I'm Kofi
 </h1>
 
 <h3 align="left">AI & Machine Learning Software Engineer | Building Intelligent Systems for Real-World Impact</h3>
@@ -17,13 +17,13 @@
 
 <p align="left">
   <a href="https://www.github.com/eshun4" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/github/followers/eshun4?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+    <img src="https://img.shields.io/github/followers/eshun4?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="GitHub followers badge" />
   </a>
-  <a href="https://www.github.com/eshun4" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/github/stars/eshun4?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=0891b2&labelColor=1c1917&logo=github" />
+  <a href="https://www.github.com/eshun4?tab=repositories" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GitHub%20Stars-Profile%20Repos-0891b2?style=for-the-badge&labelColor=1c1917&logo=github" alt="GitHub stars badge" />
   </a>
   <a href="https://github.com/pulls?q=is%3Apr+reviewed-by%3Aeshun4" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Code%20Reviews-25%2B?style=for-the-badge&color=0891b2&labelColor=1c1917" />
+    <img src="https://img.shields.io/badge/Code%20Reviews-25%2B?style=for-the-badge&color=0891b2&labelColor=1c1917" alt="Code reviews badge" />
   </a>
 </p>
 
@@ -67,14 +67,14 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
     </picture>
   </a>
   <a href="https://www.linkedin.com/in/kofi-eshun-a34441b3/" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
     </picture>
   </a>
 </p>
@@ -84,8 +84,8 @@
 ## GitHub Activity
 
 <p align="left">
-  <a href="http://www.github.com/eshun4">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=eshun4&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+  <a href="https://www.github.com/eshun4">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=eshun4&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub streak stats" />
   </a>
 </p>
 
